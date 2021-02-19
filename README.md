@@ -9,4 +9,4 @@
     <img src="https://img.shields.io/youtube/views/2IzRSHT5Hw8?label=YouTube&logo=YouTube&style=for-the-badge" />
   </a>
 </p>
-<h4 align="center">https://github-readme-stats.vercel.app/api?username=codingo&show_icons=true&theme=tokyonight</h4>
+<h4 align="center"><img src="https://github-readme-stats.vercel.app/api?username=codingo&show_icons=true&theme=tokyonight" /></h4>
