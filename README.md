@@ -5,7 +5,7 @@
   <a href="http://twitter.com/codingo_">
     <img src="https://img.shields.io/twitter/follow/codingo_?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
-  <a href="http://youtube.com/codingo?sub_confirmation=1">
+  <a href="https://www.youtube.com/watch?v=iLFkxAmwXF0?sub_confirmation=1">
     <img src="https://img.shields.io/youtube/views/codingo?label=YouTube&logo=YouTube&style=for-the-badge" />
   </a>
 </p>
