@@ -1,11 +1,6 @@
 <p align="center">
-  <a href="https://github.com/codingo?tab=followers">
-    <img src="https://img.shields.io/github/followers/eddiejaoude?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
-  <a href="http://twitter.com/codingo_">
-    <img src="https://img.shields.io/twitter/follow/codingo_?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
-  <a href="https://www.youtube.com/watch?v=iLFkxAmwXF0?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/views/codingo?label=YouTube&logo=YouTube&style=for-the-badge" />
-  </a>
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/skeltonm/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/codingo_)
+[![Bluesky](https://img.shields.io/badge/-Bluesky-000?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/codingo.com)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/codingo)
 </p>
